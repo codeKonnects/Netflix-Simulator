@@ -19,7 +19,7 @@ You don't need java or maven in your machine because this project is compiled in
 All you need to do is run the following commands:
 
 	git clone git@github.com:codeKonnects/Netflix-Simulator.git
-	cd Netflix-Simulator
+	cd netflix-microservices
 	make build
 	make run
 
